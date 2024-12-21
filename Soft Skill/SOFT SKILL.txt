@@ -1,0 +1,22 @@
+concept of o.o.p.s
+1) class & objects
+2) inheritance
+3) polymorphism
+4) encapsulation
+5) abstraction
+
+
+1) class 
+class is a collection data member & member functions
+
+2) object
+object is instance of class through the object we can access all the properties of class
+
+acess specifiers
+1) public
+2) private 
+3) protected
+
+
+1) class 
+class is 
