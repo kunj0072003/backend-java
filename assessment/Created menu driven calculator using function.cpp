@@ -5,7 +5,7 @@ int Substraction(int a, int b);
 int Multiplication(int a, int b);
 float Division(int a, int b);
 
-int main() 
+main() 
 {
     int a, b, choice;
 
